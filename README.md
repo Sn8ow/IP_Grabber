@@ -2,7 +2,7 @@
 Get an IP on opening your chosen page written in Python.
 ### Running 
 ```
-Linux python ipgrab.py -n {YourWebsite} -n {YourLocation}
+Linux python ipgrab.py -n {YourWebsite} -n {YourLocation}/ngrok
 - python ipgrab.py -u https://www.youtube.com/ -n /home/kali/ngrok
 
 Windows python ipgrab.py -n {YourWebsite} -n {YourLocation}\ngrok.exe
